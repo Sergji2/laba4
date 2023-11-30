@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab4\ConsoleLab4\bin\Debug\net8.0\Ecosystem.exe
+D:\codes\asd\ConsoleLab4\ConsoleLab4\bin\Debug\net8.0\Ecosystem.deps.json
+D:\codes\asd\ConsoleLab4\ConsoleLab4\bin\Debug\net8.0\Ecosystem.runtimeconfig.json
+D:\codes\asd\ConsoleLab4\ConsoleLab4\bin\Debug\net8.0\Ecosystem.dll
+D:\codes\asd\ConsoleLab4\ConsoleLab4\bin\Debug\net8.0\Ecosystem.pdb
+D:\codes\asd\ConsoleLab4\ConsoleLab4\obj\Debug\net8.0\Ecosystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab4\ConsoleLab4\obj\Debug\net8.0\Ecosystem.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab4\ConsoleLab4\obj\Debug\net8.0\Ecosystem.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab4\ConsoleLab4\obj\Debug\net8.0\Ecosystem.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab4\ConsoleLab4\obj\Debug\net8.0\Ecosystem.dll
+D:\codes\asd\ConsoleLab4\ConsoleLab4\obj\Debug\net8.0\refint\Ecosystem.dll
+D:\codes\asd\ConsoleLab4\ConsoleLab4\obj\Debug\net8.0\Ecosystem.pdb
+D:\codes\asd\ConsoleLab4\ConsoleLab4\obj\Debug\net8.0\Ecosystem.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab4\ConsoleLab4\obj\Debug\net8.0\ref\Ecosystem.dll

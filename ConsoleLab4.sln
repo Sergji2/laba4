@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecosystem", "ConsoleLab4\Ecosystem.csproj", "{FFDF6584-6E3C-4607-9A7D-30456077A41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network", "Network\Network.csproj", "{61E20C6C-001D-4BFC-94AE-8EDF7A38753F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citysim", "Citysim\Citysim.csproj", "{C2C50C15-15FB-48CD-B8A5-06C465928B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFDF6584-6E3C-4607-9A7D-30456077A41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDF6584-6E3C-4607-9A7D-30456077A41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDF6584-6E3C-4607-9A7D-30456077A41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDF6584-6E3C-4607-9A7D-30456077A41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E20C6C-001D-4BFC-94AE-8EDF7A38753F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E20C6C-001D-4BFC-94AE-8EDF7A38753F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E20C6C-001D-4BFC-94AE-8EDF7A38753F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E20C6C-001D-4BFC-94AE-8EDF7A38753F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C50C15-15FB-48CD-B8A5-06C465928B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C50C15-15FB-48CD-B8A5-06C465928B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C50C15-15FB-48CD-B8A5-06C465928B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C50C15-15FB-48CD-B8A5-06C465928B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A70947-05FF-4405-9754-DB3225413E31}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab4\Citysim\bin\Debug\net8.0\Citysim.exe
+D:\codes\asd\ConsoleLab4\Citysim\bin\Debug\net8.0\Citysim.deps.json
+D:\codes\asd\ConsoleLab4\Citysim\bin\Debug\net8.0\Citysim.runtimeconfig.json
+D:\codes\asd\ConsoleLab4\Citysim\bin\Debug\net8.0\Citysim.dll
+D:\codes\asd\ConsoleLab4\Citysim\bin\Debug\net8.0\Citysim.pdb
+D:\codes\asd\ConsoleLab4\Citysim\obj\Debug\net8.0\Citysim.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab4\Citysim\obj\Debug\net8.0\Citysim.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab4\Citysim\obj\Debug\net8.0\Citysim.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab4\Citysim\obj\Debug\net8.0\Citysim.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab4\Citysim\obj\Debug\net8.0\Citysim.dll
+D:\codes\asd\ConsoleLab4\Citysim\obj\Debug\net8.0\refint\Citysim.dll
+D:\codes\asd\ConsoleLab4\Citysim\obj\Debug\net8.0\Citysim.pdb
+D:\codes\asd\ConsoleLab4\Citysim\obj\Debug\net8.0\Citysim.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab4\Citysim\obj\Debug\net8.0\ref\Citysim.dll
